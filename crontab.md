@@ -21,7 +21,7 @@ Cron is a powerful utility that allows you to schedule commands or scripts to ru
 
 ### Basic Cron Syntax
 
-![Cron Cheatsheet](image1.png)
+![Cron Cheatsheet](image1.jpg)
 
 The basic structure of a cron job consists of five time fields followed by the command to execute:
 
@@ -37,7 +37,7 @@ The basic structure of a cron job consists of five time fields followed by the c
 
 ### Detailed Linux Cron Guide
 
-![Linux Cron Cheatsheet](image2.png)
+![Linux Cron Cheatsheet](image2.jpg)
 
 This comprehensive guide includes:
 - Field ranges and explanations
@@ -48,7 +48,7 @@ This comprehensive guide includes:
 
 ### How to Schedule Cron Jobs
 
-![How to Schedule Cron Jobs](image3.png)
+![How to Schedule Cron Jobs](image3.jpg)
 
 Step-by-step examples for common scheduling patterns:
 
@@ -74,7 +74,7 @@ Step-by-step examples for common scheduling patterns:
 
 ### Advanced Cron Job Reference
 
-![Cron Job Advanced](image4.png)
+![Cron Job Advanced](image4.jpg)
 
 Includes:
 - Common scheduling patterns with shortcuts
