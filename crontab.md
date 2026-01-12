@@ -211,6 +211,4 @@ This project is available for free use and distribution.
 
 ---
 
-**Note**: Replace `path/to/imageX.png` with the actual paths to your cheatsheet images in the repository.
-
 Made with ❤️ for the sysadmin community
